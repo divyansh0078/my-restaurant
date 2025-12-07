@@ -36,5 +36,5 @@ Follow these steps to get the system running locally:
     ```
 3.  Start the client application:
     ```bash
-    npm start 
+    npm run dev 
     ```
